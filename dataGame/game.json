@@ -1,0 +1,28 @@
+{
+  "players": [
+    {
+      "namePlayer1": {
+        "name": "sáu",
+        "score": 0
+      }
+    },
+    {
+      "namePlayer2": {
+        "name": "bảy",
+        "score": 0
+      }
+    },
+    {
+      "namePlayer3": {
+        "name": "tám",
+        "score": 0
+      }
+    },
+    {
+      "namePlayer4": {
+        "name": "chín",
+        "score": 0
+      }
+    }
+  ]
+}
